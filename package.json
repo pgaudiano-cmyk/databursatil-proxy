@@ -1,0 +1,17 @@
+{
+  "name": "databursatil-proxy",
+  "version": "1.0.0",
+  "description": "Minimal Express proxy for DataBursatil API",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
